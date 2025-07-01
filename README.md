@@ -1,6 +1,6 @@
 **Best with:** Product creation • Full-Stack development • React/NextJS • Typescript • Python • LLM Agent Frameworks • Java • DDD
 
-**Familiar with:** Event-Driven Architecture • Docker/K8s • Microsoft Azure
+**Familiar with:** Event-Driven Architecture • Docker/K8s • Microsoft Azure • CI/CD workflows • Rust
 
 > I’m a software engineer passionate in application development with expertise in building robust, scalable solutions across
 > both open-source personal projects (listed below 👇🏻) and high-demand professional environments.
@@ -11,7 +11,17 @@
 ## About Me
 
 Hi 👋🏻! I was born in Galicia, Spain, and I studied Computer Science at the University of A Coruña. Graduated with honors and ranking among the best students across different universities in Galicia. Now I spend my (professional) time building
-the new cutting-edge AI Assistant for Inditex and my (personal) time contributing to interesting open-source projects. From time to time I love playing the guitar and the piano (as certified professional musician) and I'm a huge football fan.
+the new cutting-edge AI Assistant for Inditex and my (personal) time contributing to interesting open-source projects.
+
+---
+
+### What I can bring
+
+- **Cross-knwoledge**: Strong foundations in both frontend and backend development, complemented by a fair UI design. This allows me to approach projects with a comprehensive, end-to-end perspective.
+- **Challenge-passionate**: Building challenging products from the group up it's what keeps me engaged.
+- **Product mindset**: Understanding the user needs and the business goals it's a key part of my work, and I think one of the most important things to deliver a successful product.
+- **Teamwork**: I value working with high-performing teams where knowledge sharing and continuous learning are part of the culture.
+- **AI-enhanced development**: I daily use AI tools like Copilot or Cline to boost productivity and code quality.
 
 ---
 
@@ -63,7 +73,7 @@ the new cutting-edge AI Assistant for Inditex and my (personal) time contributin
 
 ---
 
-### Experience (TL;DR)
+### Experience
 
 - **Software Engineer @ Inditex** (Aug 2023 – Present; A Coruña, Spain)
 
@@ -78,12 +88,3 @@ the new cutting-edge AI Assistant for Inditex and my (personal) time contributin
   _First steps in the startup world. Worked on [YepCode](https://yepcode.io/), a SaaS platform for cloud process automation._
 
 _(Complete CV available on request)_
-
----
-
-### What I can bring
-
-- **Cross-knwoledge**: Strong foundations in both frontend and backend development, which allows me to always see the full picture.
-- **Challenge-passionate**: Building challenging products from the group up is something that keeps me motivated.
-- **Product mindset**: Understanding the user needs and the business goals it's a key part of my work (and I think one of the most important things to deliver a successful product).
-- **Teamwork**: I really enjoy working in top teams, where I can keep learning from others.
