@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hi 👋🏻! I was born in Galicia, Spain, and I studied Computer Science at the University of A Coruña. Graduated with honors and ranking among the best students across different universities in Galicia. Now I spend my (professional) time in AI related projects for Inditex and my (personal) time contributing to interesting open-source projects.
+Hi 👋🏻! I was born in Galicia, Spain, and I studied Computer Science at the University of A Coruña. Graduated with honors and ranking among the best students across different universities in Galicia. Now I spend my (professional) time building AI related products for Inditex and my (personal) time contributing to interesting open-source projects.
 
 ---
 
